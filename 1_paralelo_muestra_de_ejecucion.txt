@@ -1,0 +1,27 @@
+nusud@nusud-Lenovo:~/Desktop$ python  paralelo_1.py 
+Process-1
+El cuadrado de 1 es 1
+
+Process-2
+El cuadrado de 2 es 4
+
+Process-3
+El cuadrado de 3 es 9
+
+Process-4
+El cuadrado de 4 es 16
+
+nusud@nusud-Lenovo:~/Desktop$ python  paralelo_1.py 
+Process-1
+El cuadrado de 1 es 1
+
+Process-3
+El cuadrado de 3 es 9
+
+Process-4
+Process-2
+El cuadrado de 2 es 4
+
+El cuadrado de 4 es 16
+
+nusud@nusud-Lenovo:~/Desktop$ 
